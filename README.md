@@ -1,2 +1,6 @@
-### Generalmente esta carpeta es creada por el usuario ~/.config/nvim y dentro de esta crear el archivo init.vim donde irán las configuraciones generales
-### y un directorio plugged ~/.config/nvim/plugged donde se irán guardando los plugins instaladados que serán llamados dentro de las configuraciones.
+## Plugin Manager (Obligatorio)
+### https://github.com/junegunn/vim-plug
+
+### Directorios necesarios
+
+![image](https://github.com/cipotemanx/nvim/assets/53237299/dc847fb7-0399-4ef8-becc-85d4a6480f9b)
