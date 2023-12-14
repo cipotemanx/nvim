@@ -1,6 +1,6 @@
 ":::instalacion de plugins:::
 
-call plug#begin('~/.config/nvim/plugged') 	"directorio donde se van a instalar los plugins
+call plug#begin('~/AppData/Local/nvim/plugged') 	"directorio donde se van a instalar los plugins
 
 "plugins
 Plug 'joshdick/onedark.vim' 		"tema
