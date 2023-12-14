@@ -19,7 +19,7 @@ call plug#end() 			"cerramos el llamado de los plugins
 
 "CONFIGURACIONES BASICAS 
 set number 				"muestra los numeros de cada linea en la parte izquierda 
-set relativenumber 			"la distribucion de los numeros en lineas de manera relativa
+"set relativenumber 			"la distribucion de los numeros en lineas de manera relativa
 set mouse=a 				"permite la interaccion con el mouse
 set noshowmode				"me deja de mostrar el modo en el que estamos 'normal, insert, visual, etc'
 syntax enable 				"activa el coloreado de sintaxis en algunos tipos de archivos como html, c, c++
